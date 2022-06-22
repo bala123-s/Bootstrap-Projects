@@ -1,0 +1,9 @@
+/* body{
+    background-image: url("../../EXAMPLES/IMAGES/Travelyaari.png");
+    background-repeat: no-repeat;
+    background-size: auto; 
+     background-image: linear-gradient(red, yellow, green);
+   } */
+   #image{
+    width : 400px;
+   }
